@@ -1,0 +1,52 @@
+{
+	"packages": [
+		{
+			"name": "robotmad", 
+			"maintainer": "Robotmad",
+			"websiteURL": "https://github.com/Robotmad/arduino",
+			"platforms": [
+				{
+					"category": "Robotmad",
+					"help": {
+						"online": "https://github.com/Robotmad/arduino"
+					},
+					"url": "https://github.com/robotmad/samd-robot-1.0.0.0.zip",
+					"checksum": "SHA-256:",
+					"name": "Robotmad SAMD 7003311 Board",
+					"version": "1.0.0",
+					"architecture": "samd",
+					"archiveFileName": "robotmad-samd-1.0.0.zip",
+					"size": "12852574",???
+					"toolsDependencies": [
+						{
+							"packager": "arduino",
+							"version": "4.8.3-2014q1",
+							"name": "arm-none-eabi-gcc"
+						},
+						{
+							"packager": "arduino",
+							"version": "1.6.1-arduino",
+							"name": "bossac"
+						},
+						{
+							"packager": "arduino",
+							"version": "0.9.0-arduino",
+							"name": "openocd"
+						},
+						{
+							"packager": "arduino",
+							"version": "4.0.0-atmel",
+							"name": "CMSIS"
+						}
+					],
+					"boards": [
+						{
+							"name": "Robotmad M0+"
+						}
+					]
+				}
+			]
+			"tools": []
+		}
+	]
+}

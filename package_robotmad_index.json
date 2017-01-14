@@ -8,9 +8,9 @@
 				{
 					"category": "Robotmad",
 					"help": {
-						"online": "https://github.com/Robotmad/arduino"
+						"online": "https://robotmad.github.io"
 					},
-					"url": "https://github.com/robotmad/samd-robot-1.0.0.0.zip",
+					"url": "https://robotmad.github.io/robotmad-samd-robot-1.0.0.zip",
 					"checksum": "SHA-256:",
 					"name": "Robotmad SAMD 7003311 Board",
 					"version": "1.0.0",

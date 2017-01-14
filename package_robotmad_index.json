@@ -10,13 +10,13 @@
 					"help": {
 						"online": "https://robotmad.github.io"
 					},
-					"url": "https://robotmad.github.io/robotmad-samd-robot-1.0.0.zip",
-					"checksum": "SHA-256:d71abd61c34f24ab3a81474f1c0cfe62a5abb033b9ca532eb603a37b35e44ecf",
-					"name": "Robotmad SAMD 7003311 Board",
-					"version": "1.0.0",
+					"url": "https://robotmad.github.io/robotmad-samd-1.0.1.zip",
+					"checksum": "SHA-256:ad8aca558b5100420f8ce0c700ffc6f5e86816048dfedebbc6417cdd570b4b76",
+					"name": "Robotmad SAMD Boards (32-bits ARM Cortex M0+)",
+					"version": "1.0.1",
 					"architecture": "samd",
-					"archiveFileName": "robotmad-samd-1.0.0.zip",
-					"size": "14211",
+					"archiveFileName": "robotmad-samd-1.0.1.zip",
+					"size": "2414897",
 					"toolsDependencies": [
 						{
 							"packager": "arduino",
@@ -41,7 +41,7 @@
 					],
 					"boards": [
 						{
-							"name": "Robotmad M0+"
+							"name": "Robotmad Quark (7003311)"
 						}
 					]
 				}

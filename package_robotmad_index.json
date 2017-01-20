@@ -11,12 +11,12 @@
 						"online": "https://robotmad.github.io"
 					},
 					"url": "https://robotmad.github.io/robotmad-samd-1.0.1.zip",
-					"checksum": "SHA-256:ad8aca558b5100420f8ce0c700ffc6f5e86816048dfedebbc6417cdd570b4b76",
+					"checksum": "SHA-256:7900be6bb714f13b9cb3f5acc386176768f18bc2d71ee82ccb9b5f3a98a79044",
 					"name": "Robotmad SAMD Boards (32-bits ARM Cortex M0+)",
 					"version": "1.0.1",
 					"architecture": "samd",
 					"archiveFileName": "robotmad-samd-1.0.1.zip",
-					"size": "2414897",
+					"size": "2402388",
 					"toolsDependencies": [
 						{
 							"packager": "arduino",
